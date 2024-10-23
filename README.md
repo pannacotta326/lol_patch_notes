@@ -1,19 +1,9 @@
-# 🎈 Blank app template
+https://blank-app-gymrrp5sdp7.streamlit.app/
 
-A simple Streamlit app template for you to modify!
+簡易的に上記のページでデータ探索ができます。 
+詳しいcsvは下記から取得してください 
+https://github.com/pannacotta326/lol_patch_notes/tree/main/data 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+中身を見ればわかりますが、あまり推奨されないやり方で取得しています。 
+また取得の仕方が未熟なため間違ったデータや、取得しきれていないデータがあります。 ご了承ください。 
+再配布は禁止です。
